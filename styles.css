@@ -9,7 +9,7 @@
       }
       .red {
         display: inline-block;
-        background-color: #fe0000;
+        background-color: rgb(255, 0, 0);
         border: 2px solid black;
         padding: 35px;
         margin-top: 20px;
@@ -19,7 +19,7 @@
       }
       .yellow {
         display: inline-block;
-        background-color: #ffff00;
+        background-color: rgb(255, 255, 0);
         border: 2px solid black;
         padding: 35px;
         margin-top: 20px;
@@ -29,7 +29,7 @@
       }
       .green {
         display: inline-block;
-        background-color: #008000;
+        background-color:rgb(0, 128, 0);
         border: 2px solid black;
         padding: 35px;
         margin-top: 40px;
