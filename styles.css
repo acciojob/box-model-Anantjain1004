@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+  .container {
+        border: 5px solid black;
+        width: 500px;
+        height: 200px;
+        border-radius: 50px;
+        background-color: #d3d3d3;
+      }
+      .item {
+        display: inline-block;
+        border: 2px solid black;
+        padding: 52px;
+        margin-top: 20px;
+        position: relative;
+        left: 70px;
+        top: 25px;
+        border-radius: 50%;
+        border: none;
+      }
+      #item1 {
+        background-color: #008000;
+      }
+      #item2 {
+        background-color: #ffff00;
+      }
+      #item3 {
+        background-color: #fe0000;
+      }
